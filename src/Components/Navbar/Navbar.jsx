@@ -32,7 +32,7 @@ const Navbar = () => {
               setMenu("Men");
             }}
           >
-            <Link style={{ textDecoration: "none" }} to="/men">
+            <Link style={{ textDecoration: "none" }} to="/mens">
               Men
             </Link>
 
@@ -43,7 +43,7 @@ const Navbar = () => {
               setMenu("Women");
             }}
           >
-            <Link style={{ textDecoration: "none" }} to="/women">
+            <Link style={{ textDecoration: "none" }} to="/womens">
               Women
             </Link>
 
