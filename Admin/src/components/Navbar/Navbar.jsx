@@ -3,6 +3,7 @@ import "./Navbar.css";
 import navlogo from "../../assets/nav-logo.svg";
 import navProfile from "../../assets/nav-profile.svg";
 
+//Navbar
 const Navbar = () => {
   return (
     <div className="navbar">
